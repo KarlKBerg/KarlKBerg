@@ -9,7 +9,7 @@ Big fan of Liverpool FC! When I’m not coding, there’s a good chance I’m wa
 ### 🎵 Music Enthusiast
 Whether it’s playing, creating, or just listening, music is a big part of my life.
 
-##" 🎮 Gamer
+### 🎮 Gamer
 I love playing videogames, I play everything from MMO's to single player survival. 
 
 ### 🤝 Friends & Collaboration
@@ -27,7 +27,6 @@ I believe the best ideas happen when people share knowledge and work together.
 * Responsive design principles
 
 ### *🌱 Current Goals*
----
 Build and share my first full portfolio site
 
 Contribute to open-source projects
