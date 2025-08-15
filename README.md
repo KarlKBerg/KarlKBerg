@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Karl 
 ## *About me*
 ### 💻 Frontend Development Student @ Noroff
-I’m 28 years old and just starting my journey into frontend development. I’ve dabbled in SwiftUI and frontend before, but now I’m diving deeper into HTML, CSS, JavaScript, and modern frameworks. My goal is to create clean, user-friendly, and visually appealing websites.
+I’m 29 years old and just starting my journey into frontend development. I’ve dabbled in SwiftUI and frontend before, but now I’m diving deeper into HTML, CSS, JavaScript, and modern frameworks. My goal is to create clean, user-friendly, and visually appealing websites.
 
 ### ⚽ Liverpool Supporter
 Big fan of Liverpool FC! When I’m not coding, there’s a good chance I’m watching a match.
